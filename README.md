@@ -1,3 +1,3 @@
 Made by MOHIT1048576
 
-This is my first hello world C/C++ project
+This is my hello world project in different languages
